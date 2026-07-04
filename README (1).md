@@ -101,7 +101,7 @@ Standard IB color coding is used throughout:
 - Bear/Base/Bull driver assumptions are this analyst's own construction calibrated to GS's 2021–2025
   historical range, not sourced from a specific sell-side research note.
 
-## Suggested next extensions
+## Possible Next Extensions
 
 - Pull full peer book-value data from a terminal to complete the comps section
 - Extend the FCFE required-retention mechanic with GS's actual CET1/SLR/stress-capital-buffer targets
