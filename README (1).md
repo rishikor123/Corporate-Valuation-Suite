@@ -28,11 +28,11 @@ actually want to run are `validate_three_statement.py`, `validate_dcf.py`, and
 
 ## Headline finding
 
-Every valuation method in this repo — DCF Base Case, comps, and a 20,000-trial Monte Carlo simulation —
+Every valuation method in this repo — DCF Base Case, comps, and a 20,000-trial Monte Carlo simulation 
 lands **30–40% below** the current market price, and even this model's own Bull Case DCF falls short of
 today's price. A reverse DCF shows the market is pricing in either a ~19% through-cycle ROE (above the
 FY2025 actual of 15.0%, but inside GS's historical range) or sustained ~14%/year revenue growth for five
-years (above this model's own Bull Case). See Section 6 of the memo for the full discussion — this is a
+years (above this model's own Bull Case). See Section 6 of the memo for the full discussion, this is a
 valuation-gap finding, not a trading recommendation.
 
 ## How the models are built
